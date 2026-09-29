@@ -9,7 +9,7 @@ Game Design & Development graduate (Universidad Rey Juan Carlos). I build gamepl
 - 📖 Writer of every game I make solo, and scriptwriter on team projects
 - 🔧 Currently learning **Unreal Engine & C++**
 
-📫 ivandecastilla@gmail.com · 🎮 [itch.io](https://smartwastaken.itch.io) · 💼 [LinkedIn](https://www.linkedin.com/in/iv%C3%A1n-de-castilla-guiti%C3%A1n-78b450255/) · 🌐 [Portfolio](https://smartwastaken.github.io)
+📫 ivandecastilla@gmail.com · 🎮 [itch.io](https://smartwastaken.itch.io) · 💼 [LinkedIn](https://www.linkedin.com/in/ivandecastillaguitian/) · 🌐 [Portfolio](https://smartwastaken.github.io)
 
 ---
 
