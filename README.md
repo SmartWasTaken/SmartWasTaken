@@ -1,10 +1,10 @@
 # Hi, I'm Iván 👋
 
-**Junior Game Developer · Unity / C# · Narrative Design** — Madrid, Spain
+**Junior Game Developer · Unity / C# · Narrative Design** - Madrid, Spain
 
 Game Design & Development graduate (Universidad Rey Juan Carlos). I build gameplay systems in Unity and C#, and I write the stories that go with them. I care about games that leave a mark — especially ones that talk about mental health.
 
-- 🏆 **1st place** at two URJC game jams — *Quantum Memories* (shown in Cologne, Germany) and *Unchained* (shown in Barcelona)
+- 🏆 **1st place** at two URJC game jams - *Quantum Memories* (shown in Cologne, Germany) and *Unchained* (shown in Barcelona)
 - 🧪 Programmed Unity virtual labs (serious games) for Universidad Politécnica de Madrid
 - 📖 Writer of every game I make solo, and scriptwriter on team projects
 - 🔧 Currently learning **Unreal Engine & C++**
